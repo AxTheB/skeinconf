@@ -7,8 +7,8 @@ Bridge Cool (Celcius):	1.0
 Orbit	False
 Slow Down	True
 Maximum Cool (Celcius):	2.0
-Minimum Layer Time (seconds):	25.0
-Minimum Orbital Radius (millimeters):	22.0
+Minimum Layer Time (seconds):	20.0
+Minimum Orbital Radius (millimeters):	10.0
 Name of Cool End File:	cool_end.gcode
 Name of Cool Start File:	cool_start.gcode
 Turn Fan On at Beginning	True

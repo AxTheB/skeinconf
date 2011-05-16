@@ -1,5 +1,5 @@
 Format is tab separated carve settings.
-Name                          	Value
+_Name                          	Value
 WindowPosition	700+0
 Open File for Carve	
 Add Layer Template to SVG	True

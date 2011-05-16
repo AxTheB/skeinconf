@@ -1,5 +1,5 @@
 Format is tab separated skeinforge profile settings.
-Name                          	Value
+_Name                          	Value
 WindowPosition	0+200
 cutting	False
 extrusion	True
