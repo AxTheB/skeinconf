@@ -14,7 +14,7 @@ From the Bottom	False
 From the Top	True
 Draw Arrows	False
 Go Around Extruder Off Travel	False
-Layer (index):	0
+Layer (index):	2
 Layer Extra Span (integer):	912345678
 Line (index):	0
 Display Line	True
@@ -22,9 +22,9 @@ View Move	False
 View Rotate	False
 Number of Fill Bottom Layers (integer):	1
 Number of Fill Top Layers (integer):	1
-Scale (pixels per millimeter):	15.0
-Screen Horizontal Inset (pixels):	1084
-Screen Vertical Inset (pixels):	220
+Scale (pixels per millimeter):	3.75
+Screen Horizontal Inset (pixels):	226
+Screen Vertical Inset (pixels):	452
 Show Gcode	True
 Viewpoint Latitude (degrees):	15.0
 Viewpoint Longitude (degrees):	210.0
