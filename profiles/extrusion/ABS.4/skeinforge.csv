@@ -1,9 +1,9 @@
 Format is tab separated skeinforge settings.
 _Name                          	Value
-WindowPosition	626+579
-Open File for Skeinforge	
-analyze	True
-craft	False
+WindowPosition	573+36
+Open File for Skeinforge	/home/arhimed/PRINT/pad.gts
+analyze	False
+craft	True
 help	False
 meta	False
 profile	False

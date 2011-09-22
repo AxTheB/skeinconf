@@ -1,0 +1,14 @@
+G92 Z
+;vynuluj osu Z
+G1 Z1
+;zvedni se od predmetu
+G1 X0 Y200 F6000.0
+;vysun ho dopredu
+G28 Z
+;Opri se extruderem o heatbed aby to neslintalo
+M104 S0
+M140 S0
+;vypni vsechno topeni
+M84
+;vypni motory
+

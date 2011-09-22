@@ -1,8 +1,8 @@
 Format is tab separated skeinforge craft settings.
 _Name                          	Value
 WindowPosition	600+0
-Open File for Craft	/home/reprap/nuzky.stl
-bottom	True
+Open File for Craft	/home/reprap/nuzky_mk2.stl
+bottom	False
 carve	False
 chamber	False
 chop	False
@@ -35,7 +35,7 @@ scale	False
 skirt	False
 speed	False
 splodge	False
-stretch	False
+stretch	True
 temperature	False
 tower	False
 unpause	False

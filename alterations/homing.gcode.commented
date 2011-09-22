@@ -1,0 +1,3 @@
+;tenhle soubor se spousti pri kazdem prechodu na novou vrstvu
+M105
+;zjisti teplotu

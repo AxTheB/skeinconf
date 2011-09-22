@@ -1,0 +1,12 @@
+G90
+;absolute coords
+G21
+;milimteres
+G92 Z0
+;set Z to zero
+G1 Z10 F200
+;go up - dont home touching the heatbed.
+G28
+;go home
+G92 E0
+;reset extruder

@@ -26,7 +26,7 @@ lash	False
 lift	False
 limit	False
 mill	False
-multiply	True
+multiply	False
 oozebane	False
 outset	False
 preface	False
@@ -35,7 +35,7 @@ scale	False
 skirt	False
 speed	False
 splodge	False
-stretch	False
+stretch	True
 temperature	False
 tower	False
 unpause	False

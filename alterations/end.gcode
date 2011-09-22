@@ -1,4 +1,8 @@
-(this is a sample gcode end file, it must be renamed end.gcode for skeinforge to recognize it)
+G92 Z
+G1 Z1
 G1 X0 Y200 F6000.0
-G1 Z0 F200
+G28 Z
+M104 S0
+M140 S0
 M84
+
